@@ -1,0 +1,19 @@
+{
+	"navbar": [],
+	"detailRoutes": [
+		"/icon",
+		"/tabs",
+		"/form",
+		"/editor",
+		"/markdown",
+		"/upload",
+		"/charts",
+		"/drag",
+		"/dialog",
+		"/i18n",
+		"/permission",
+		"/404",
+		"/403",
+		"/donate"
+	]
+}
